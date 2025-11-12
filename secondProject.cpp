@@ -8,10 +8,11 @@ int main() {
 
     int number;
 
-    std::cout << "Ââåäèòå ÷èñëî: ";
+    std::cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ñ‡Ğ¸ÑĞ»Ğ¾: ";
     std::cin >> number;
 
-    std::cout << "Âû ââåëè: " << number << std::endl;
+    std::cout << "Ğ’Ñ‹ Ğ²Ğ²ĞµĞ»Ğ¸: " << number << std::endl;
 
     return 0;
+
 }
